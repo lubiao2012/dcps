@@ -1,0 +1,9 @@
+.svn/
+.DS_Store
+*.iml
+target/
+.idea/
+eagle.py
+.project
+.classpath
+.settings/
