@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dcps:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dcps.war">
+      <element id="artifact" artifact-name="dcps:war exploded" />
+    </root>
+  </artifact>
+</component>
